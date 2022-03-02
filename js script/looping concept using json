@@ -1,0 +1,59 @@
+
+// For the given JSON iterate over all for loops (for, for in, for of, forEach)
+// let flowers=["rose","lily","jasmine","sunflower","dairy"];
+// let result="  ";
+// for(let i=0;i<flowers.length;i++)
+// {
+// result +=`${flowers[i]}`;
+// }
+//     console.log(result);
+
+
+// let flowers=["rose","lily","jasmine","sunflower","dairy"];
+// let output="";
+// for(let index in flowers)
+// {
+//     output+=`${flowers[index]}`
+// }
+// console.log(output);
+
+
+// let flowers=["rose","lily","jasmine","sunflower","dairy"];
+// let output="";
+// for(let data of flowers)
+// {
+//     output+=`${data}`;
+// }
+//     console.log(output);
+
+// let flowers=["rose","lily","jasmine","sunflower","dairy"];
+// let result="";
+// flowers.forEach(function(element)
+//     {
+//         result+=`${element}`;
+//     });
+//     console.log(result);
+    
+
+// Create your own resume data in JSON format:
+
+// let myresume= {
+//     "name":"Divya",
+//     "email":"divyamece03@gmail.com",
+//     "age":26,
+//     "DOB":"18.07.1994",
+//     "College":"Global institute of engineering &technology",
+//     "eductaion":[{"qualification":"ECE","city":"chennai"},
+//     {"grade":"first class"},{"father":"A.Manickam"}],
+//     "My Aim":"i want to became an good engineer",
+//     "My strength":["goog leadership","management skill","customer service executive"],
+//     "carrier":["Tata motors","syrma tecnology"],
+//     "work experience":"4 years",
+//     "thank you ":"Divya"
+
+
+// };
+// console.log(myresume);
+
+
+
